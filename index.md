@@ -5,21 +5,20 @@ You can use the [editor on GitHub](https://github.com/jad-kheirallah/jad-kheiral
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+god i need help
 
 ```markdown
-Syntax highlighted code block
+why are we still here
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- life is unneeded
+- suffering is endless
 
-1. Numbered
-2. List
+1. aaaaaaaaaaaaa
+2. whyyyyyyyyyyyyy
 
 **Bold** and _Italic_ and `Code` text
 
